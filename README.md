@@ -44,7 +44,6 @@ You will be prompted for a URL. Go setup your search on sales-nav with your filt
 	- Linkedin Profile URL
 	- Linkedin Company URL
 	- Company URL
-	- Company URL
 	- Employee Count*
 	(*) of the company they are working for
 
