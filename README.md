@@ -55,7 +55,7 @@ You will be prompted for a URL. Go setup your search on sales-nav with your filt
 
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Linkedin or any of its affiliates or subsidiaries. This is an independent and unofficial project. Use at your own risk.
 
-This project violates Linkedin's User Agreement Section 8.2, and because of this, Linkedin may (and will) temporarily or permantly ban your account. We are not responsible for your account being banned.
+This project violates Linkedin's User Agreement Section 8.2, and because of this, Linkedin may (and will) temporarily or permantly ban your account. You are responsible for your account being banned if you use this program.
 
  
 
