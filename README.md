@@ -57,7 +57,7 @@ This is for (Educational purposes)!
 
 **⚠️Can I get banned for using this?⚠️**
 
-*Yes! Scraping Linkedin.com is against their [User Agreement](https://www.linkedin.com/help/linkedin/answer/56347/prohibited-software-and-extensions?src=direct/none&veh=direct/none). They have automated scraping detection so if you do take the risk to use this program then I recommend taking it slow and limit your scraping.*
+*Yes! Scraping Linkedin.com is against their [User Agreement](https://www.linkedin.com/help/linkedin/answer/56347/prohibited-software-and-extensions?src=direct/none&veh=direct/none). They have automation detection so if you do take the risk to use this program then I recommend taking it slow and limit your usage.*
 
  
 
