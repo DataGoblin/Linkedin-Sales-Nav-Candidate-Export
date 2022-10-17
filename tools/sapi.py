@@ -24,7 +24,7 @@ class SalesNavScrape:
                 }
 
         self.headers = {
-          'user-agent': 'MMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0',
+          'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0',
           'accept': '*/*',
           'cookie': f'JSESSIONID="{self.jsessionid}"; li_at={self.li_at}; li_a={self.li_a}',
           'csrf-token': self.jsessionid,
