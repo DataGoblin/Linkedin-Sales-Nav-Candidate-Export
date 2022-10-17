@@ -167,7 +167,7 @@ class SalesNavScrape:
 
                             if not profileurl == '':
                                 profileurl = re.search("(?<=e:\()(.*?)(?=\,)", profileurl).group(0)
-                                profileurl = f'https://www.linkedin.com/talent/search/profile/{profileurl}'
+                                profileurl = f'https://www.linkedin.com/in/{profileurl}'
 
                         except (KeyError, IndexError, AttributeError):
                             profileurl = ''                                                       
