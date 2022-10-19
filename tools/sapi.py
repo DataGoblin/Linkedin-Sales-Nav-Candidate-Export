@@ -213,7 +213,7 @@ class SalesNavScrape:
                             "Current Industry": industry.strip(),
                             "Tenure": f'{years} {months}'.strip(),
                             "Location": candidate.get('geoRegion','').strip(),
-                            "ReruiterURL": profileurl.strip(),
+                            "RecruiterURL": profileurl.strip(),
                             "CompanyLinkedin": companyURL.strip(),
                             "CompanyURL": website.strip(),
                             "CompanyHQ": hq.strip(),
