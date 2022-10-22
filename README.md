@@ -1,5 +1,5 @@
 # Intro
-Uses the private sales-api to export users into a CSV file. Useful for local CRM's or extra analysis of potential candidates.
+Uses the private sales-api to export users from Linkedin Sales Navigator searches into a CSV file. Useful for local CRM's or extra analysis of potential candidates.
 
 **😱Usage can lead to suspension of your Linkedin account.**  | (Please see the disclaimer at the bottom of this page.)
 
